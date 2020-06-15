@@ -1,8 +1,18 @@
-# Estudo1
+# Objetivo
 
-Estrutura de dados!
+Código para estudo de Estrutura de dados: Árvore, árvore de busca, pilha e fila em javascript.
 
-Árvore, árvore de busca, pilha e fila em javascript
+# Pré-requisitos
 
-Instalar nodeJS 
-Para rodar a aplicação abra o cmd, vá até o diretório do arquivo e digite o comando "node arquivo.js" sem aspas.
+ - NodeJS versão 12.18.0 e anteriores.
+
+- Link: (https://nodejs.org/pt-br)
+
+# Como rodar
+
+**Abra o terminal no diretório raiz e envie o comando:**
+
+'node arquivo.js'
+
+
+
