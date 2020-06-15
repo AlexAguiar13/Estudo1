@@ -11,8 +11,8 @@ Código para estudo de Estrutura de dados: Árvore, árvore de busca, pilha e fi
 # Como rodar
 
 **Abra o terminal no diretório raiz e envie o comando:**
-
+```
 node arquivo.js
-
+```
 
 
